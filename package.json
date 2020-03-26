@@ -1,0 +1,15 @@
+{
+  "name": "cquptweb1",
+  "version": "1.0.0",
+  "description": "publish npm demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cquptcmy",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.19.0"
+  }
+}
